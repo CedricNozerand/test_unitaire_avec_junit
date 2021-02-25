@@ -2,6 +2,9 @@
 
 Projet maven utilisant les tests unitaires avec JUnit
 
+## Prérequis
+- JDK 12
+
 Voici les points abordés durant le projet:
 - Annotations
 - Test classes and Methods
