@@ -21,4 +21,4 @@ La classe est composé de quetre méthodes:
 - multiplication
 - division
 
-Pour lancer la classe CalculatriceTest il vous suffit de faire un clique droit sur le package de test 'src/test/java' 
+Pour lancer la classe CalculatriceTest il vous suffit de faire un clique droit sur le package de test **'src/test/java'**. Vous verrez ensuite le résultat des tests dans l'onglet JUnit.
