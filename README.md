@@ -20,3 +20,5 @@ La classe est composé de quetre méthodes:
 - soustraction
 - multiplication
 - division
+
+Pour lancer la classe CalculatriceTest il vous suffit de faire un clique droit sur le package de test 'src/test/java' 
