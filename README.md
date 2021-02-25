@@ -1,4 +1,4 @@
-# test_unitaire_avec_junit
+# Projet Junit
 
 Projet maven utilisant les tests unitaires avec JUnit
 
